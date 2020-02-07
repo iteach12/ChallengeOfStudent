@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934179676054",
+    "firebase_url": "https://challengeofstudent.firebaseio.com",
+    "project_id": "challengeofstudent",
+    "storage_bucket": "challengeofstudent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934179676054:android:a7aa83bc3812d5ffbd07b7",
+        "android_client_info": {
+          "package_name": "com.chodingcoding.challengeofstudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934179676054-n81om9kj9jb3ketf5onad16ouhidgm96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chodingcoding.challengeofstudent",
+            "certificate_hash": "de25cb393241bceb7da07a4e00cde363a3f42545"
+          }
+        },
+        {
+          "client_id": "934179676054-7dtpi507170c6cqnu4ntj3uj2rsilqtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSexVOJwaowuQfTIN1zEV6PHU2uy75Hoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934179676054-7dtpi507170c6cqnu4ntj3uj2rsilqtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
